@@ -6,4 +6,4 @@ Design and implement a Score keeper app that counts the score of a cricket game 
 
 
 # Layout Screen
-![](score.png)
+<img src = "score.png" width="300px" height="550px" >
